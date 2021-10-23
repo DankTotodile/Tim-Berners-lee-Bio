@@ -1,0 +1,35 @@
+#intro
+{
+    background: linear-gradient(lightblue, pink);
+    height: 500px;
+    width: 100%;
+    margin: 0; 
+    padding-top: 150px;
+}
+#Label1
+{
+    font-size: 40px;
+    font-family: "Comic Sans Ms";
+}
+#Label2
+{
+    font-size: 20px;
+    font-family: "Aerial";
+}
+img
+{
+    margin-bottom: 40px;
+    border-radius:20px;
+    border: 10px solid lightpink;
+}
+hr
+{
+    width: 50%;
+    height: 2px;
+    background-color: black;
+}
+p
+{
+    max-width: 50%;
+    font-family: Impact;
+}
